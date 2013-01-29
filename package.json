@@ -1,0 +1,12 @@
+{
+  "name": "ingress-passcode-scraper"
+, "description": "Scrapes various sources for ingress passcodes, then attempts to redeem them"
+, "version": "0.0.1"
+, "private": true
+, "dependencies": {
+    "request": "*"
+  , "backbone": "*"
+  , "ntwitter": "*"
+  , "underscore": "*"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "email": "email@example.com"
+  , "password": "secret_password"
+  , "interval": 180000
+  , "patterns": ["[2-9][p-z][a-h][2-9]\\w+[p-z](?:[2-9][p-z]){2}"]
+  , "sites": [
+    "http://decodeingress.me/category/code/"
+  , "http://ingressfieldguide.com/feeds/passcodes"
+  ]
+  , "feeds": []
+  , "twitter": {
+    "consumer_key": ""
+    , "consumer_secret": ""
+    , "access_token_key": ""
+    , "access_token_secret": ""
+    , "filter": {
+      "track": "ingress, niantic"
+    }
+  }
+}
