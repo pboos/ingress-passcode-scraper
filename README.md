@@ -21,7 +21,7 @@ These instructions are for osx/unix-like systems. Sorry, windows folk, you're go
 If you use two-factor authentication with your google account,
 you will receive an sms pin from google
 when the redeem script successfully logs into your google acount for the first time.
-Two enter the sms pin, navigate to http://server_address:8080.
+To enter the sms pin, navigate to http://server_address:8080.
 To change the default port number, feel free to edit it in lib/phantom-redeem.js.
 
 After successfully authenticating, the you shouldn't have to authenticate again
